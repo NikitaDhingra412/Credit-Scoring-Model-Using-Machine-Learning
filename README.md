@@ -35,7 +35,6 @@ This project implements a credit risk scoring model in Python to predict the lik
 
 * `credit_scoring.ipynb` – Full workflow of the project.
 * `credit_risk_dataset.csv` – Dataset used (share only if anonymized).
-* `best_xgb_model.pkl` – Saved XGBoost model.
 * `requirements.txt` – Python dependencies.
 * `.gitignore` – Files and folders excluded from GitHub.
 
